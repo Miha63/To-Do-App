@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "name": "Learn Node.js",
+    "completed": false
+  },
+  {
+    "id": 2,
+    "name": "Learn Express",
+    "completed": true
+  },
+  {
+    "id": 3,
+    "name": "Build Todo API",
+    "completed": false
+  }
+]
