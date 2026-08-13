@@ -1,17 +1,12 @@
 [
   {
-    "id": 1,
+    "id": "550e8400-e29b-41d4-a716-446655440000",
     "name": "Learn Node.js",
     "completed": false
   },
   {
-    "id": 2,
+    "id": "7f3a2c91-6e44-4c8b-bc13-92f5a8d1e721",
     "name": "Learn Express",
     "completed": true
-  },
-  {
-    "id": 3,
-    "name": "Build Todo API",
-    "completed": false
   }
 ]
